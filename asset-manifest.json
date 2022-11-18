@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/nourddine-benyahya/weather/static/css/main.75dfa98e.css",
+    "main.js": "/nourddine-benyahya/weather/static/js/main.2a5b87e0.js",
+    "static/js/787.13d76ca7.chunk.js": "/nourddine-benyahya/weather/static/js/787.13d76ca7.chunk.js",
+    "static/media/overcast-snow.svg": "/nourddine-benyahya/weather/static/media/overcast-snow.1d2f9e7d933bf2cb6e145804473e9315.svg",
+    "static/media/overcast-day-rain.svg": "/nourddine-benyahya/weather/static/media/overcast-day-rain.9a538d8ceb5b9172a05333e84c52c786.svg",
+    "static/media/overcast-night-rain.svg": "/nourddine-benyahya/weather/static/media/overcast-night-rain.b51f87b75f77cacef6065684403f5453.svg",
+    "static/media/thunderstorms-overcast-rain.svg": "/nourddine-benyahya/weather/static/media/thunderstorms-overcast-rain.8c448380bd5a0e40e35900e414cbf39b.svg",
+    "static/media/overcast-rain.svg": "/nourddine-benyahya/weather/static/media/overcast-rain.ae6506707ec0fbf883a10e71367bc8bc.svg",
+    "static/media/tide-high.svg": "/nourddine-benyahya/weather/static/media/tide-high.35ee9737386ffd700bdf676186c8dae1.svg",
+    "static/media/thermometer-celsius.svg": "/nourddine-benyahya/weather/static/media/thermometer-celsius.a67b22991686baed46449a6cc96d73b3.svg",
+    "static/media/raindrop-measure.svg": "/nourddine-benyahya/weather/static/media/raindrop-measure.8e287e655ba0ebb623e5f5354de00432.svg",
+    "static/media/overcast.svg": "/nourddine-benyahya/weather/static/media/overcast.d21b546a8f0745e6608e6d06c463516f.svg",
+    "static/media/partly-cloudy-day.svg": "/nourddine-benyahya/weather/static/media/partly-cloudy-day.ea586e392a42a659bbeb5d27f80b5fe6.svg",
+    "static/media/partly-cloudy-night.svg": "/nourddine-benyahya/weather/static/media/partly-cloudy-night.9b2375a9ce70c22ba993c01536437de9.svg",
+    "static/media/mist.svg": "/nourddine-benyahya/weather/static/media/mist.32e665d921e74ac88afbfdeb987bab9c.svg",
+    "static/media/barometer.svg": "/nourddine-benyahya/weather/static/media/barometer.61bbfb382c4f397f45e488da13a3d8ea.svg",
+    "static/media/wind.svg": "/nourddine-benyahya/weather/static/media/wind.9cb5f330e4d8f7ec56301929e9846839.svg",
+    "index.html": "/nourddine-benyahya/weather/index.html",
+    "static/media/clear-day.svg": "/nourddine-benyahya/weather/static/media/clear-day.2909a175d21b0bc0a0c5cc4d70ede315.svg",
+    "static/media/clear-night.svg": "/nourddine-benyahya/weather/static/media/clear-night.cc5c9e4da17d8f345e593a1e5014ed37.svg",
+    "static/media/cloudy.svg": "/nourddine-benyahya/weather/static/media/cloudy.73c058e1e92399013d7c41be494b9ac0.svg",
+    "main.75dfa98e.css.map": "/nourddine-benyahya/weather/static/css/main.75dfa98e.css.map",
+    "main.2a5b87e0.js.map": "/nourddine-benyahya/weather/static/js/main.2a5b87e0.js.map",
+    "787.13d76ca7.chunk.js.map": "/nourddine-benyahya/weather/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75dfa98e.css",
+    "static/js/main.2a5b87e0.js"
+  ]
+}
